@@ -128,7 +128,7 @@ Main topics:
 * Founder mindset
 * Business strategy
 
-10. Brett (TheBrettWay)
+10. Brett Malinowski
 
 YouTube: https://www.youtube.com/@TheBrettWay
 
@@ -147,7 +147,6 @@ Main topics:
 All creators were checked for recent activity and are actively publishing content. Their videos and related research materials are being collected and organized in the following folders:
 
 * research/youtube-transcripts/
-* research/linkedin-posts/
 * research/other/
 
 The goal of this research is to identify common strategies that successful B2B SaaS creators use on YouTube to attract audiences, build trust, and grow their businesses.
